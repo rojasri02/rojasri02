@@ -22,9 +22,7 @@ wesome!" />
 -📚 Always exploring modern technologies and best development practices.
 -⚡ Fun Fact: **I love solving coding challenges and building useful applications.**
 
-
 ---
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -47,19 +45,15 @@ badge&logo=gmail"/>
 </p>
 
 --
-
 # 💻 Tech Stack
 
 <p align="center">
-  
 <img src="https://skillicons.dev/icons?
 i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
 tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
 
 </p>
-
 --
-
 # 🚀 Featured Projects
 
 ## 🌍 Portfolio Website
@@ -74,7 +68,6 @@ Modern personal portfolio showcasing projects, skills, and experience.
 📂 Repository: [GitHub Repository]
 
 ---
-
 ## 🛒 E-Commerce Website
 
 A responsive online shopping platform with authentication and cart functionality. 
@@ -88,9 +81,7 @@ A responsive online shopping platform with authentication and cart functionality
 📂 Repository: [GitHub Repository]
 
 ---
-
 ## ✅ Task Management App
-
 A productivity application to organize daily tasks with authentication.
 
 **Tech Stack**
@@ -102,19 +93,16 @@ A productivity application to organize daily tasks with authentication.
 📂 Repository: [GitHub Repository]
 
 ---
-
 # 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api? username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord er=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/ top-langs/?
 username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde r=true"/>
 
 </p>
 
 ---
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -124,7 +112,6 @@ username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde r=true"/>
 </p>
 
 ---
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -134,7 +121,6 @@ username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde r=true"/>
 </p>
 
 ---
-
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -144,7 +130,6 @@ username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde r=true"/>
 </p>
 
 ---
-
 # 🛠 Currently Working On
 
 - 🚀 Building full-stack web applications.
@@ -153,7 +138,6 @@ username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde r=true"/>
 - 📱 Improving responsive UI/UX design.
 
 ---
-
 # 📚 Currently Learning
 
 - TypeScript
@@ -164,7 +148,6 @@ username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde r=true"/>
 - Backend Architecture
 -
 ---
-
 # 🎯 Goals for 2025
 
 - ✅ Contribute to Open Source
@@ -174,15 +157,12 @@ username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde r=true"/>
 - ✅ Grow My Developer Portfolio
   
 ---
-
 # 💡 Favorite Quote
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ---
-
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/? username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla 
 t"/>
 
