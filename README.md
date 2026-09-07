@@ -148,7 +148,6 @@ username=[rojasri02]&layout=compact&theme=tokyonight&hide_borde r=true"/>
 - AWS
 - System Design
 - Backend Architecture
--
 ---
 # 🎯 Goals for 2025
 
