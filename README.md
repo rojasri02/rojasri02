@@ -78,7 +78,7 @@ A responsive online shopping platform with authentication and cart functionality
 
 `React` `Node.js` `Express` `MongoDB`
 
-🔗 Live Demo: [Project URL]
+🔗 Live Demo: [https://github.com/rojasri02/AI-Resume-Job-Recommendation]
 
 📂 Repository: [GitHub Repository]
 
@@ -90,7 +90,7 @@ A productivity application to organize daily tasks with authentication.
 
 `React` `Firebase` `Tailwind CSS`
 
-🔗 Live Demo: [Project URL]
+🔗 Live Demo: [https://github.com/rojasri02/AI-Resume-Job-Recommendation]
 
 📂 Repository: [GitHub Repository]
 
@@ -98,7 +98,7 @@ A productivity application to organize daily tasks with authentication.
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api? username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord er=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api? username=[rojasri02]&show_icons=true&theme=tokyonight&hide_bord er=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/ top-langs/?
 username=[rojasri02]&layout=compact&theme=tokyonight&hide_borde r=true"/>
 
