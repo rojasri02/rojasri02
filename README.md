@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm [Rojasri k]</h1>
 
 <h3 align="center">
-🌐 Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences </h3>
+🌐 Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences 
+</h3>
 
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com? 
@@ -23,21 +24,22 @@ wesome!" />
 -⚡ Fun Fact: **I love solving coding challenges and building useful applications.**
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="left">
   
-<a href="[LinkedIn URL]">
+<a href="[www.linkedin.com/in/roja-sri-8b0bb7356]">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-
 the-badge&logo=linkedin"/>
 </a>
 
-<a href="[Portfolio URL]">
+<a href="[www.linkedin.com/in/roja-sri-8b0bb7356]">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for
 the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:[Email Address]">
+<a href="mailto:[rojasrisri392@gmail.com]">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the
 badge&logo=gmail"/>
 </a>
@@ -63,9 +65,9 @@ Modern personal portfolio showcasing projects, skills, and experience.
 
 `HTML` `CSS` `JavaScript` `React`
 
-🔗 Live Demo: [Portfolio URL]
+🔗 Live Demo: [www.linkedin.com/in/roja-sri-8b0bb7356]
 
-📂 Repository: [GitHub Repository]
+📂 Repository: []
 
 ---
 ## 🛒 E-Commerce Website
@@ -98,7 +100,7 @@ A productivity application to organize daily tasks with authentication.
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api? username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord er=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/ top-langs/?
-username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde r=true"/>
+username=[rojasri02]&layout=compact&theme=tokyonight&hide_borde r=true"/>
 
 </p>
 
@@ -107,7 +109,7 @@ username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde r=true"/>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/? user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/? user=[rojasri02]&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -116,7 +118,7 @@ username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde r=true"/>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph? username=[GitHubUsername]&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph? username=[rojasri02]&theme=tokyo-night"/>
 
 </p>
 
@@ -125,7 +127,7 @@ username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde r=true"/>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/? username=[GitHubUsername]&theme=tokyonight&no-frame=true&marginw=10"/>
+<img src="https://github-profile-trophy.vercel.app/? username=[rojasri02]&theme=tokyonight&no-frame=true&marginw=10"/>
 
 </p>
 
@@ -163,7 +165,7 @@ username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde r=true"/>
 
 ---
 <p align="center">
-<img src="https://komarev.com/ghpvc/? username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla 
+<img src="https://komarev.com/ghpvc/? username=[rojasri02]&label=Profile+Views&color=0e75b6&style=fla 
 t"/>
 
 </p>
