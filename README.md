@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm [Rojasri k]</h1>
 
 <h3 align="center">
-🌐 Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences 
+🌐 B.Tech Information Technology student | Aspiring Machine Learning Engineer | AI & Data Analytics Enthusiast |  Aspiring Fullstack Developer
 </h3>
 
 <p align="center"> 
