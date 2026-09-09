@@ -16,7 +16,7 @@ wesome!" />
 
 ## 🚀 About Me
 
-- 💻 I'm a **Full Stack Web Developer** passionate about creating responsive and user-friendly web applications.
+- 💻 I'm a **IT student** passionate about creating responsive and user-friendly web applications.
 - 🚀 I enjoy turning ideas into real-world projects.
 - 🌱 Currently learning **Next.js, TypeScript, and Cloud Technologies**.
 -🤝 Open to collaborating on exciting web development and opensource projects.
