@@ -89,7 +89,7 @@ Key Features
 - Dashboard
 - Resume-based insights
 
-🔗 Repository: "AI Resume & Job Recommendation Repository" (YOUR-GITHUB-REPOSITORY-LINK)
+🔗 Repository: "AI Resume & Job Recommendation Repository" (https://github.com/rojasri02/AI-Resume-Job-Recommendation.git)
 
 ---
 
