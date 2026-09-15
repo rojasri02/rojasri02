@@ -109,7 +109,7 @@ Key Features
 - Patient-oriented interface
 - Responsive web design
 
-🔗 Repository: "CareSync Repository" (YOUR-GITHUB-REPOSITORY-LINK)
+🔗 Repository: "CareSync Repository" (https://github.com/rojasri02/CareSync-Intelligent-Hospital-Management-and-Patient-Care-System.git)
 
 ---
 
@@ -232,7 +232,7 @@ My goal is to become a Machine Learning Engineer and build practical AI-driven s
 
 🤝 Connect With Me
 
-<p align="left"><a href="YOUR-LINKEDIN-URL">
+<p align="left"><a href="www.linkedin.com/in/roja-sri-8b0bb7356">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="YOUR-PORTFOLIO-URL">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
