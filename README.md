@@ -51,24 +51,24 @@ Technologies used:
 
 🚀 Featured Projects
 
-🐾 Animal Disease Prediction System
+🍽️ Ahaaram – Multi-Cuisine Restaurant Web Application
 
-A machine-learning-based application that predicts possible animal diseases based on symptoms and animal information.
+A full-stack web application designed to provide a seamless digital restaurant experience, including online food ordering, table reservations, customer reviews, and restaurant management.
 
-Tech Stack
+ 🛠️ Tech Stack
+"Python" "Flask" "SQLite" "HTML5" "CSS3" "JavaScript"
 
-"Python" "Machine Learning" "Pandas" "NumPy" "Scikit-learn" "Flask" "SQLite"
-
-Key Features
-
-- Animal disease prediction
-- User registration and login
-- Prediction history
-- Disease information
-- Feedback functionality
-- Machine learning model integration
-
-🔗 Repository: "Animal Disease Prediction Repository" (YOUR-GITHUB-REPOSITORY-LINK)
+✨ Key Features
+- Online Menu & Food Details
+- Shopping Cart & Food Ordering
+- Table Reservation System
+- User Authentication & Profile
+- Customer Reviews
+- Order & Reservation Management
+- Admin Dashboard
+- Responsive Restaurant Interface
+🔗 Repository: "Ahaaram-Multi-Cuisine-Restaurant Web Application Repository" (https://github.com/rojasri02/Ahaaram_Multi_Cusine_Restaurant.git
+)
 
 ---
 
@@ -99,7 +99,7 @@ A full-stack hospital management and patient-care web application designed to pr
 
 Tech Stack
 
-"Python" "Flask" "HTML" "CSS" "JavaScript"
+"Python" "Flask" "HTML" "CSS" "JavaScript" "SQLite"
 
 Key Features
 
@@ -147,19 +147,32 @@ Tools
 - Machine Learning
 - Python Programming
 - Artificial Intelligence
+- Computer Networks
 
 ---
 
 📜 Certifications
 
-- 🏆 Great Learning — Artificial Intelligence
-- 📊 NoviTech — Data Analytics
-- 🎨 LearnVern — UX Design
-- ☕ IIT Spoken Tutorial — Java
-- 💻 Introductory Computer Training
-- 🤖 Elysium — Artificial Intelligence Internship
-- 📈 Celonis — Rising Star: Business
-- 📱 NSDC — Digital Marketing
+- 🏅 Topgrade Innovation – Placement Assistance Program
+- 💡 Google Student Ambassador Program – Fund My Crazy: Build Night Challenge
+- 🤖 Alison – Master Generative AI
+- 🧠 HP LIFE – Artificial Intelligence
+- 📊 SkillsMint – Data Analyst Course
+- 🤖 Elysium Technologies – Artificial Intelligence Internship
+- 💻 Internship Common Aptitude Test – Participation
+- 🎨 LearnVern – User Experience Design
+- 📈 Celonis Academy – Process Mining Rising Star: Business
+- 🤖 Great Learning – Artificial Intelligence
+- 📊 NoviTech – Data Analytics 30 Days Challenge
+- 🇮🇳 DPIIT & MyGov – Bharat GI Quiz
+- ☕ IIT Bombay – Java Training
+- 💻 K.L.N. College of Engineering – TECHGENIO-2K25
+- 🚀 K.L.N. College of Engineering – NEXTGEN INNOVATORS-2K25
+- 📊 BrandMonk Academy – Data Analytics Webinar
+- 🎨 BrandMonk Academy – UI/UX Webinar
+- 📢 BrandMonk Academy – Digital Marketing Webinar
+- 💻 IIT Bombay – Introduction to Computers Training
+- 🐍 IIT Bombay – Python 3.4.3 Training
 
 ---
 
@@ -236,7 +249,7 @@ My goal is to become a Machine Learning Engineer and build practical AI-driven s
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="YOUR-PORTFOLIO-URL">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a><a href="YOUR-RESUME-LINK">
+</a><a href="https://github.com/rojasri02/rojasri02/blob/main/Rojasri%20resume.pdf">
 <img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a></p>---
 
